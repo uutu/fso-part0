@@ -1,1 +1,17 @@
 # fso-part0
+
+## 0.4: New note
+
+Diagram for a situation where a user creates a new note and submits it.
+
+[![](https://mermaid.ink/img/pako:eNqtlMtu2zAQRX9lwG0t6-FNQqBeJGmbRZsEtVaBgIKRRhVTimTJYeLA8L-XtF0YBoI8EGslgaPDc0firFhrOmScefwbULd4IcVvJ8ZGw-66MoSgsCcwPZwriZo4fDVuBB_uRknwGTpBgoOOhRwIPe1f3tZn8_mnBboHdBwu6_oGbq4XNQxE1vM89xQ6iX7a-umAykv9R057meNSjFahsDbX-Pgr0ffcLS1L4P9KP9Fboz2CJ0HBw6yoQJlWkDSawwEuovyrjt--vEvxkLnze0GvKgoO50ZT2pue7KZ1S8oHGtUrzT9z5tEnTytcBF7WP75DLxUeOdIopI7LR0l1gDme3f1H5SJJye0_kt-LB-FbJy29tf-4xDbE7w47Gcjmm7MQb40-ct5nuB9PHHGwarfrHBq2ObxskkJgeq6KqsrKMiuLuiz5rODVyfS0mt02bP22Hu1blMYMCN2BQ92h80ADwkYgJWs0m7ARXWxkF4fRKtGjzoAjNiyZdNiLoKJco9exVAQyiyfdMk4u4IQFm5R3s4vxXiiP63-a3pyQ?type=png)](https://mermaid.live/edit#pako:eNqtlMtu2zAQRX9lwG0t6-FNQqBeJGmbRZsEtVaBgIKRRhVTimTJYeLA8L-XtF0YBoI8EGslgaPDc0firFhrOmScefwbULd4IcVvJ8ZGw-66MoSgsCcwPZwriZo4fDVuBB_uRknwGTpBgoOOhRwIPe1f3tZn8_mnBboHdBwu6_oGbq4XNQxE1vM89xQ6iX7a-umAykv9R057meNSjFahsDbX-Pgr0ffcLS1L4P9KP9Fboz2CJ0HBw6yoQJlWkDSawwEuovyrjt--vEvxkLnze0GvKgoO50ZT2pue7KZ1S8oHGtUrzT9z5tEnTytcBF7WP75DLxUeOdIopI7LR0l1gDme3f1H5SJJye0_kt-LB-FbJy29tf-4xDbE7w47Gcjmm7MQb40-ct5nuB9PHHGwarfrHBq2ObxskkJgeq6KqsrKMiuLuiz5rODVyfS0mt02bP22Hu1blMYMCN2BQ92h80ADwkYgJWs0m7ARXWxkF4fRKtGjzoAjNiyZdNiLoKJco9exVAQyiyfdMk4u4IQFm5R3s4vxXiiP63-a3pyQ)
+
+
+## 0.5: Single page app
+
+Create a diagram depicting the situation where the user goes to the single page app version of the notes app at https://studies.cs.helsinki.fi/exampleapp/spa.
+
+## 0.6: New note
+
+Create a diagram depicting the situation where the user creates a new note using the single page version of the app.
+
